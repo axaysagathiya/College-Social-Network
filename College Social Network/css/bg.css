@@ -1,0 +1,5 @@
+/* bg1 == > Login & Registration Bacground. */
+.bg1{
+    background-image: url('../background/reg_bg.jpg');
+    background-size: cover;
+}
